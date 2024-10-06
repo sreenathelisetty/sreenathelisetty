@@ -27,14 +27,10 @@ Welcome to my GitHub profile! I am passionate about leveraging data-driven strat
 - Implemented machine learning algorithms (Logistic Regression, Random Forest, SVM) to classify job postings as legitimate or fraudulent.
 - Successfully highlighted critical features indicative of fake jobs through model evaluation.
 
-#### 💡 **Inflation Expectation Rates Forecasting**
-- Analyzed and forecasted inflation expectation rates using time series analysis in R.
-- Provided reliable forecasts for the next 36 months based on ARIMA modeling.
-
 ---
 
 ### 🏆 **Achievements:**
-- **Ranked 2nd** in the global Business Strategy Game (BSG) competition by applying data-driven strategies to improve profitability and market share.
+- **Ranked 2nd among peers within the class** in the global Business Strategy Game (BSG) competition by applying data-driven strategies to improve profitability and market share.
 - Successfully managed cross-functional projects, improving efficiency and reducing costs in previous roles at Tata Consultancy Services (TCS) and other positions.
 
 ---
