@@ -25,11 +25,11 @@ Welcome to my GitHub profile! I'm passionate about leveraging data-driven strate
 
 ### 📚 **Featured Projects:**
 
-#### 📊 **[Time-Series Forecasting on Fred Series](link-to-project)**
+#### 📊 **[Time-Series Forecasting on Fred Series](https://github.com/sreenathelisetty/Time-Series-Forecasting-of-Inflation-Expectations)**
 - Developed ARIMA and Exponential Smoothing models to forecast trends using Fred series data.
 - Provided actionable insights that led to a 15% increase in forecasting accuracy.
 
-#### 🕵️‍♂️ **[Fake/Real Job Prediction](link-to-project)**
+#### 🕵️‍♂️ **[Fake/Real Job Prediction](https://github.com/sreenathelisetty/Fake-Real-Job-Posting-Prediction)**
 - Implemented machine learning algorithms (Logistic Regression, Random Forest, SVM) to classify job postings.
 - Successfully identified critical features indicative of fake jobs, achieving a model accuracy of 92%.
 
